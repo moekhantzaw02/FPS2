@@ -55,6 +55,16 @@ from math import pip
 Please make sure to update tests as appropriate.
 
 -![#FF0000]'RED'
+```java
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        // Prints "Hello, World" to the terminal window.
+        System.out.println("Hello, World");
+    }
+
+}
+```
 
 ```diff
 -text in red
