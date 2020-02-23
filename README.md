@@ -78,12 +78,12 @@ public class HelloWorld {
 +word
 !character
 #String
-$text$
-%text%
-^text^
-&text&
-*text*
-<text<
+$text
+%text
+^text
+&text
+*text
+<text
 ```
 
 [MIT](https://choosealicense.com/licenses/mit/)
